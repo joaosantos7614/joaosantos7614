@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joaosantos7614
 - 👀 I’m interested in contribuiting to the comunity and gaining expecience :)
-- 🌱 I’m currently learning HTML, CSS, C# and ASP.NET
+- 🌱 I’m currently learning C# and ASP.NET
 - 💞️ I’m looking to collaborate on anything I'm able to help 
 - 📫 How to reach me ... Well, right here on GitHub ;)
 
