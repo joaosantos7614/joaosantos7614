@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @joaosantos7614
+- 👋 Hi, I’m João Pedro
 - 👀 I’m interested in contribuiting to the comunity and gaining expecience :)
 - 🌱 I’m currently learning C# and ASP.NET
 - 💞️ I’m looking to collaborate on anything I'm able to help 
