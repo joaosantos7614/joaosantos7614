@@ -1,7 +1,7 @@
 - 👋 Hi, I’m João Pedro
-- 👀 I’m interested in contribuiting to the comunity and gaining expecience :)
+- 👀 I’m interested in contribuiting to the comunity and gaining experience :)
 - 🌱 I’m currently learning C# and ASP.NET
-- 💞️ I’m looking to collaborate on anything I'm able to help 
+- 💞️ I’m looking to collaborate on anything within my knowledge 
 - 📫 How to reach me ... Well, right here on GitHub ;)
 
 <!---
