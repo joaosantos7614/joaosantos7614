@@ -1,8 +1,5 @@
 - 👋 Hi, I’m João Pedro
-- 👀 I’m interested in contribuiting to the comunity and gaining experience :)
-- 🌱 I’m currently working with C# and ASP.NET
-- 💞️ I’m looking to learn a lot more! 
-- 📫 Text me here on GitHub :)
+- 🌱 I’m currently working with C#, .NET, SQL and HTML
 
 <!---
 joaosantos7614/joaosantos7614 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
