@@ -1,5 +1,5 @@
-- 👋 Hi, I’m João Pedro
-- 🌱 I’m currently working with C#, .NET, SQL and HTML
+- 👋 Hi, I’m João!
+- 🌱 I’m currently an OutSystems developer at darwinLabs
 
 <!---
 joaosantos7614/joaosantos7614 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
